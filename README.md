@@ -1,5 +1,5 @@
 # YENİDEN ARANIZDAYIM KAPANAN WEDALARI SEWMEM GİTHUB HESABI BU HESAP ÜZERİNDEN DEVAM EDECEKTİR.
-![profile count]([https://komarev.com/ghpvc/?username=KRON1K1000&color=8b72ff)&nbsp;
+[![Discord Profilim](https://lanyard.cnrad.dev/api/1108498175653859358)](https://discord.com/users/1108498175653859358)
 [![GitHub KRON1K1000](https://img.shields.io/github/followers/KRON1K1000?label=follow&style=social)](https://github.com/KRON1K1000)&nbsp;
 
 Herkese Selam WEDALARI SEWMEM Github hesabım kapandı artık buradayım
