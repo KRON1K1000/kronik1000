@@ -1,5 +1,6 @@
 # YENİDEN ARANIZDAYIM KAPANAN WEDALARI SEWMEM GİTHUB HESABI BU HESAP ÜZERİNDEN DEVAM EDECEKTİR.
 [![Discord Profilim](https://lanyard.cnrad.dev/api/1108498175653859358)](https://discord.com/users/1108498175653859358)&nbsp;
+
 [![GitHub KRON1K1000](https://img.shields.io/github/followers/KRON1K1000?label=follow&style=social)](https://github.com/KRON1K1000)&nbsp;
 
 Herkese Selam WEDALARI SEWMEM Github hesabım kapandı artık buradayım
