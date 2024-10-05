@@ -7,6 +7,7 @@ Herkese Selam WEDALARI SEWMEM Github hesabım kapandı artık buradayım
 Tüm Yeni repo'lar ile karşınızda olacağım :)
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 
